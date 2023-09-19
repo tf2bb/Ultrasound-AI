@@ -1,5 +1,7 @@
 # Ultrasound-image-processing
+
 This project includes a variety of ultrasound image processing, such as enhancement, generation, classification, etc.
+
 # Ultrasound Image Processing（超声图像处理）
 
 ## Ultrasound Image Enhancement
@@ -14,7 +16,14 @@ This project includes a variety of ultrasound image processing, such as enhancem
 
 ### ull supervision
 
-#### breast image
+#### breast image segmentation
+
+| Date | Pub | Title | Links |
+| --- | --- | --- | --- |
+| January 2023 | Computer Methods and Programs in Biomedicine | MsGoF: Breast lesion classification on ultrasound images by |     |
+| <br/>multi-scale gradational-order fusion framework | [paper](https://www.sciencedirect.com/science/article/pii/S0169260723000135/pdf?crasolve=1&r=8090b1723c5c3de1&ts=1695114601330&rtype=https&vrr=UKN&redir=UKN&redir_fr=UKN&redir_arc=UKN&vhash=UKN&host=d3d3LnNjaWVuY2VkaXJlY3QuY29t&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&re=X2JsYW5rXw%3D%3D&ns_h=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ns_e=X2JsYW5rXw%3D%3D&rh_fd=rrr)n%5Ed%60i%5E%60_dm%60%5Eo)%5Ejh&tsoh_fd=rrr)n%5Ed%60i%5E%60_dm%60%5Eo)%5Ejh&iv=20541a71686cfcd2320b76ac46d643ca&token=39316536373163396366626339343739663639393239393330373262643439373962663035633137623766363034623364626163653530306434613731323061613863353261656436353034383162383831353730373639666132373a623730373430366539343566613762623533376534386536&text=fd0dfbee0e2be6264ee7289a1703f29f92bde77094bcbb5089b52c0e0f07b90a205819d083dfb0edb35efb6700f4d9a79c910e12f944c9affa0e9610aa4954900c3960886615ba69ddda0ca9fe9e5dc15489e27f5d3ed0dcfc0e5d84f3a2dcad2877f37e8e56a7b6065da2493167670e696ec31991995acfd2db04dac42f48bee269efcb238c7064942ff78b306593e8a423300b92cfe929ba997cc6777b47b5e21c6a759a4dacccafb0da47de43b78833c4d9f197a74eaa22beadc1ed11ba6fac02fd40a147bd4d7c19224e9b204cf374794a06b961851debb322a5933e067efd015b07d3c37ed17ad5fd6772e7c383923b397d7c70b6a28d25b2e5774cfccf7f077b98e5f1021f685c226b2c1e314eab3b608f44e74c7f70d5e17bea45b415df8072d94833e30774c604e36c1a2c5d&original=3f)/[code](https://github.com/YuZhang-SMU/Breast-Lesion-Classification) |     |     |
+
+#### breast image classification
 
 | Date | Pub | Title | Links |
 | --- | --- | --- | --- |

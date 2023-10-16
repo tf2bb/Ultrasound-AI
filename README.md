@@ -18,6 +18,10 @@ This project includes a variety of ultrasound image processing, such as enhancem
 
 ## Ultrasound Image Segmentation
 
+| Data | Pub | Title | Links |
+| --- | --- | --- | --- |
+| June <br/>2023 | Computers in Biology and Medicine | Thyroid Region Prior Guided Attention for Ultrasound Segmentation of Thyroid Nodules | [paper](https://doi.org/10.1016/j.compbiomed.2022.106389)/[code](https://github.com/haifangong/TRFE-Net-for-thyroid-nodule-segmentation) |
+
 ### ull supervision
 
 #### breast image

@@ -1,5 +1,7 @@
 # Ultrasound-image-processing
+
 This project includes a variety of ultrasound image processing, such as enhancement, generation, classification, etc.
+
 # Ultrasound Image Processing（超声图像处理）
 
 ## Ultrasound Image Enhancement
@@ -7,6 +9,10 @@ This project includes a variety of ultrasound image processing, such as enhancem
 ## Ultrasound Image Synthesis
 
 ## Ultrasound Image Classification
+
+| Date | Pub | Title | Links |
+| --- | --- | --- | --- |
+| June <br/>2023 | IEEE TRANSACTIONS ON <br/>MEDICAL IMAGING | HoVer-Trans: Anatomy-aware <br/>HoVer-Transformer for ROI-free Breast Cancer <br/>Diagnosis in Ultrasound Images | [paper](https://ieeexplore.ieee.org/document/10015121)/[code](https://github.com/br/yuhaomo/HoVerTrans.) |
 
 ## Ultrasound Image Detection
 

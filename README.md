@@ -18,11 +18,11 @@ This project includes a variety of ultrasound image processing, such as enhancem
 
 ## Ultrasound Image Segmentation
 
-| Data           | Pub                                          | Title                                                                                                | Links                                                                                                                                    |
-| -------------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| June <br/>2023 | Computers in Biology and Medicine            | Thyroid Region Prior Guided Attention for Ultrasound Segmentation of Thyroid Nodules                 | [paper](https://doi.org/10.1016/j.compbiomed.2022.106389)/[code](https://github.com/haifangong/TRFE-Net-for-thyroid-nodule-segmentation) |
-| June <br/>2023 | Computer Methods and Programs in Biomedicine | BPAT-UNet: Boundary preserving assembled transformer UNet for ultrasound thyroid nodule segmentation | [paper](https://doi.org/10.1016/j.cmpb.2023.107614)/[coda](https://github.com/ccjcv/BPAT-UNet)                                           |
-| June <br/>2023 | arXiv                                        | MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model                            | [paper](https://doi.org/10.48550/arXiv.2211.00611)/[coda](https://github.com/WuJunde/MedSegDiff)                                         |
+| Data               | Pub                                          | Title                                                                                                | Links                                                                                                                                    |
+| ------------------ | -------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| November<br/> 2022 | Computers in Biology and Medicine            | Thyroid Region Prior Guided Attention for Ultrasound Segmentation of Thyroid Nodules                 | [paper](https://doi.org/10.1016/j.compbiomed.2022.106389)/[code](https://github.com/haifangong/TRFE-Net-for-thyroid-nodule-segmentation) |
+| May <br/>2023      | Computer Methods and Programs in Biomedicine | BPAT-UNet: Boundary preserving assembled transformer UNet for ultrasound thyroid nodule segmentation | [paper](https://doi.org/10.1016/j.cmpb.2023.107614)/[coda](https://github.com/ccjcv/BPAT-UNet)                                           |
+| January <br/>2023      | arXiv                                        | MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model                            | [paper](https://doi.org/10.48550/arXiv.2211.00611)/[coda](https://github.com/WuJunde/MedSegDiff)                                         |
 
 ### ull supervision
 

@@ -13,7 +13,7 @@ This project includes a variety of ultrasound image processing, such as enhancem
 | July 2022 | IEEE Transactions on Medical Imaging | Deep-fUS: A Deep Learning Platform for Functional Ultrasound Imaging of the Brain Using Sparse Data | [paper](https://doi.org/10.1109/TMI.2022.3148728)/[code](https://github.com/todiian/deep-fus) |
 | 2022 | Proceedings of the Computer Vision - ACCV 2022 | HiCo: Hierarchical Contrastive Learning for Ultrasound Video Model Pretraining | [paper](https://link.springer.com/chapter/10.1007/978-3-031-26351-4_1)/[code](https://github.com/983632847/HiCo ) |
 | September 2023 | Transactions on Machine Learning Research | Revisiting Hidden Representations in Transfer Learning for Medical Imaging | [paper](https://openreview.net/pdf?id=ScrEUZLxPr)/[code](https://github:com/DovileDo/revisiting-transfer) |
-| February<br/>2023 | Nature Communications | Virtual elastography ultrasound via generative adversarial network for breast cancer diagnosis | [paper](https://www.nature.com/articles/s41467-023-36102-1)/[code](https://github. <br/>com/yyyzzzhao/VEUS) |
+| February<br/>2023 | Nature Communications | Virtual elastography ultrasound via generative adversarial network for breast cancer diagnosis | [paper](https://www.nature.com/articles/s41467-023-36102-1)/[code](https://github.com/yyyzzzhao/VEUS) |
 
 ## Ultrasound Image Synthesis
 

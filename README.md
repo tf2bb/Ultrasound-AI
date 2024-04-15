@@ -46,7 +46,13 @@ This project includes a variety of ultrasound image processing, such as enhancem
 
 ### ull supervision
 
-#### breast image
+#### breast image classification
+
+| Date | Pub | Title | Links |
+| --- | --- | --- | --- |
+| January 2023 | Computer Methods and Programs in Biomedicine | MsGoF: Breast lesion classification on ultrasound images by | [paper](https://pdf.sciencedirectassets.com/271322/1-s2.0-S0169260722X00163/1-s2.0-S0169260723000135/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQC3prsRoWPIp1rRlijmvbGPBEbvt4vmpUA15WQLXVw6pwIhAKRODuFeB0X9jGRuKE81r3EexixYqxAjSvJ3ZwVsFw2CKrwFCLn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1IgzEHLYWEp93TZXpZOEqkAVfWaU05UiRw8amAYQsau9Wsk8PRYPMUOaJRnjj9nfNB%2FJi98H1pm9hX8lpoyORG8f04Z%2B%2FLHrskGjxyWyaHF1BZXtgEOjI66xCXbVe86fUZcR3SsyWl9mIql2Gb3WdSafz%2B%2BujqTcyys5p5uasMFjM8UWns8Ukn3wrCj%2FBlBHKWtfnEmyk0Mi3PiFxozPv%2B36JYP3n3yHIJj7O%2BHH%2FJbGbAmBQkarJ4seY%2Fv8PSgbVnE03MwmgldFYrzzGSl%2FrxHIy1KFYmhpFNGeLTXtRB7ZF%2BsDPOSZTJWSCI%2F1IJiOX5F%2BgIwYluvK9ybkjP5dPoa57flHNn4eaCcOSg0qF91wKqFqxytZrcJKry0QDb8vmDE4qj4M5dRJ%2B%2FGCeSuX6e0yGyk897MvF26SIBvgovr1qCcvQ5U0V7Tocp9AShMKYMmBIS5AK%2FIlgrDFeTX8%2FuBkTY7Y6kaN%2FB515l2XPVUS2eNr7JdFgbwzFLnykhKuFNrEa6rcMvknSiWhHQR3lW6oSf3ZUDnyjOkkJDFrTkW13T%2F47JToCq5I2tENnJ5IMDC4l%2BCMwNrv1S3h9uirY5y4bdAyWXUVJH8zEy3qSqDRGAebEyweZwdJmMaGYDbAZextbig5hTxSo%2FL5aaXRzJ9I2R6AEEzeqhTQ0ti2vHxkR2YCXRGjTHdNK78doELFDLeUEco4XGkBfBwGApx7aEwGyfvRZA6Wqjs9dYNCzeGglN0MrRmVRu%2FFTK0rWYhyR4wiTeCAr21dLm4bkYcIOZdVC2vkmaIeMVtcHM5qK86BBIVDBVSRKNYsQg3rouEvh52lz%2Bx%2F3VeevQDbn%2B3zKXqE98ZlNet8etAT16vek%2BLHit5uaiTZM1pDokneG2oWiHjD5sKWoBjqwAUROtkHD%2BkrT7bddzIUAmg3BcYk1kWO3LshArC1mtceAklF1guE6yIHJPJWzKmWIm%2ByStErkuUt61js%2BT6ItSB4gIfVg85IMyE23L1yFpt6o%2B6%2BuZfqVVtpRWydNQwXW6DeUxyWrOzacuEUpwDqKht2gfGXPe%2F3ZQtzvCdxPzQtfC9EHCO1%2FN732VUa48gb7YXa4uFbbbkiORAZIIFo27NxlJfOEduY%2FK0LpUTS9vIy7&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230919T092701Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY2V3BCPU2%2F20230919%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=8521324d5b481acac1fb728a5196b1c8006c60a36b8c7c2b51d5b05e5620b76f&hash=c6b303ebc19056cf025dd05fd5ea8ab1820b45b2b238ba9f77075e0155f8bce3&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0169260723000135&tid=spdf-e40a535f-89f5-4944-9921-f57b8eda20c4&sid=dce66d9e2a768442360a54f5a5879fbbd663gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0c0557515752070156&rr=8090ca5a683189a6&cc=hk)/[code](https://github.com/YuZhang-SMU/Breast-Lesion-Classification) |
+
+#### breast image segmentation
 
 | Date | Pub | Title | Links |
 | --- | --- | --- | --- |

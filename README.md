@@ -12,8 +12,9 @@ This project includes a variety of ultrasound image processing, such as enhancem
 | February<br/>2023 | Nature Communications | Virtual elastography ultrasound via generative adversarial network for breast cancer diagnosis | [paper](https://www.nature.com/articles/s41467-023-36102-1)/[code](https://github.com/yyyzzzhao/VEUS) |
 | 2022 | Proceedings of the Computer Vision - ACCV 2022 | HiCo: Hierarchical Contrastive Learning for Ultrasound Video Model Pretraining | [paper](https://link.springer.com/chapter/10.1007/978-3-031-26351-4_1)/[code](https://github.com/983632847/HiCo) |
 | December 2022 | IEEE Transactions on Medical Imaging | Generating and Weighting Semantically Consistent Sample Pairs for Ultrasound Contrastive Learning | [paper](https://doi.org/10.1109/TMI.2022.3228254)/[code](https://github.com/Schuture/Meta-USCL) |
-| July 2022 | IEEE Transactions on Medical Imaging | Deep-fUS: A Deep Learning Platform for Functional Ultrasound Imaging of the Brain Using Sparse Data | [paper](https://doi.org/10.1109/TMI.2022.3148728)/[code](https://github.com/todiian/deep-fus) |
+| July <br/>2022 | IEEE Transactions on Medical Imaging | Deep-fUS: A Deep Learning Platform for Functional Ultrasound Imaging of the Brain Using Sparse Data | [paper](https://doi.org/10.1109/TMI.2022.3148728)/[code](https://github.com/todiian/deep-fus) |
 | September 2021 | arXiv | USCL: Pretraining Deep Ultrasound Image Diagnosis Model through Video Contrastive Representation Learning | [paper](https://doi.org/10.48550/arXiv.2011.13066)/[code](https://github.com/983632847/USCL) |
+| July<br/>2023 | arXiv | Dehazing Ultrasound using Diffusion Models | [paper](https://arxiv.org/html/2307.11204v2)/[code](https://github.com/dehazing-diffusion/dehazing-diffusion.github.io) |
 
 ## Ultrasound Image Synthesis
 
@@ -23,13 +24,19 @@ This project includes a variety of ultrasound image processing, such as enhancem
 | --- | --- | --- | --- |
 | June <br/>2023 | IEEE TRANSACTIONS ON <br/>MEDICAL IMAGING | HoVer-Trans: Anatomy-aware <br/>HoVer-Transformer for ROI-free Breast Cancer <br/>Diagnosis in Ultrasound Images | [paper](https://ieeexplore.ieee.org/document/10015121)/[code](https://github.com/yuhaomo/HoVerTrans) |
 | January <br/>2023 | Computer Methods and Programs in Biomedicine | MsGoF: Breast lesion classification on ultrasound images by<br>multi-scale gradational-order fusion framework | [paper](https://www.sciencedirect.com/science/article/abs/pii/S0169260723000135?via%3Dihub)/[code](https://github.com/YuZhang-SMU/Breast-Lesion-Classification) |
-| August 2021 | sensors | Pulmonary COVID-19: Learning Spatiotemporal Features Combining CNN and LSTM Networks for Lung Ultrasound Video Classification | [paper](https://doi.org/10.3390/s21165486)/[code](https://github.com/b-mandelbrot/pulmonary-covid19) |
+| August <br/>2021 | sensors | Pulmonary COVID-19: Learning Spatiotemporal Features Combining CNN and LSTM Networks for Lung Ultrasound Video Classification | [paper](https://doi.org/10.3390/s21165486)/[code](https://github.com/b-mandelbrot/pulmonary-covid19) |
+| December<br/>2021 | Computer Methods and Programs in Biomedicine | Multi-scale information with attention integration for classification of |     |
+| <br/>liver fibrosis in B-mode US image | [paper](https://www.sciencedirect.com/science/article/abs/pii/S0169260721006726?via%3Dihub)/[code](https://github.com/xffeng09/Fibrosis-classification-with-BUS-image) |     |     |
+| June <br/>2022 | IEEE Transactions on Medical Imaging | Voice-assisted Image Labelling for Endoscopic |     |
+| <br/>Ultrasound Classification using Neural Networks | [paper](https://ieeexplore.ieee.org/abstract/document/9663415)/[code](https://github.com/ebonmati/ebonmati.github.io) |     |     |
 
 ## Ultrasound Image Detection
 
 | Data | Pub | Title | Links |
 | --- | --- | --- | --- |
 | January 2021 | Applied Sciences | Accelerating Detection of Lung Pathologies with Explainable Ultrasound Image Analysis | [paper](https://doi.org/10.3390/app11020672)/[code](https://github.com/BorgwardtLab/covid19_ultrasound) |
+| January  2022 | PLOS ONE | Multi-channel convolutional neural network |     |
+| <br/>architectures for thyroid cancer detection | [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262128)/no code |     |     |
 
 ## Ultrasound Image Segmentation
 
@@ -43,6 +50,26 @@ This project includes a variety of ultrasound image processing, such as enhancem
 | November 2022 | Medical Image Analysis | Domain generalization for prostate segmentation in transrectal ultrasound images: A multi-center study | [paper](https://doi.org/10.1016/j.media.2022.102620)/[code](https://github.com/pimed/TRUSGlandSegmentation) |
 | April <br/>2021 | IEEE International Symposium on Biomedical Imaging | SGUNET: Semantic Guided UNET For Thyroid Nodule Segmentation | [paper](https://ieeexplore.ieee.org/document/9434051)/[code](https://github.com/Jo-Pan/SGUNet) |
 | February <br/>2021 | arXiv | Medical Transformer: Gated Axial-Attention for Medical Image Segmentation | [paper](https://doi.org/10.48550/arXiv.2102.10662)/[code](https://github.com/jeya-maria-jose/Medical-Transformer) |
+| Augest<br/> 2023 | arXiv | ACC-UNet: A Completely Convolutional UNet model for the 2020s | [paper](https://arxiv.org/abs/2308.13680)/[code](https://github.com/kiharalab/ACC-UNet) |
+| 2024 | AAAI Conference on Artificial Intelligence | Rolling-Unet: Revitalizing MLP’s Ability to Efficiently Extract Long-Distance |     |
+| <br/>Dependencies for Medical Image Segmentation | [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28173)/[code](https://github.com/Jiaoyang45/Rolling-Unet) |     |     |
+| Decemeber<br/>2019 | Computer Methods and Programs in Biomedicine | Semi-supervised segmentation of lesion from breast ultrasound |     |
+| <br/>images with attentional generative adversarial network | [paper](https://www.sciencedirect.com/science/article/abs/pii/S0169260719306583)/[code](https://github.com/fiy2W/BUS-GAN) |     |     |
+| August<br/>2020 | Biomedical Signal Processing and Control | Breast mass segmentation in ultrasound with selective kernel U-Net |     |
+| <br/>convolutional neural networ | [paper](https://www.sciencedirect.com/science/article/pii/S174680942030183X)/[code](https://github.com/mbyr/bus_seg) |     |     |
+| April<br/>2020 | Medical Image Analysis | Segmentation of breast ultrasound image with semantic classification |     |
+| <br/>of superpixels | [paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841520300244)/no code |     |     |
+| October<br/>2021 | Journal of King Saud University – |     |     |
+| Computer and Information Sciences | MDA-Net: Multiscale dual attention-based network for breast lesion |     |     |
+| <br/>segmentation using ultrasound images | [paper](https://www.sciencedirect.com/science/article/pii/S1319157821002895)/[code](https://github.com/ahmedeqbal/MDA-Net) |     |     |
+| October<br/>2021 | arXiv | KiU-Net: Overcomplete Convolutional |     |
+| <br/>Architectures for Biomedical Image and |     |     |     |
+| <br/>Volumetric Segmentation | [paper](https://arxiv.org/abs/2006.04878)/[code](https://github.com/jeya-maria-jose/KiU-Net-pytorch) |     |     |
+| April <br/>2022 | Computers and Electrical Engineering | LAEDNet: A Lightweight Attention Encoder–Decoder Network for |     |
+| <br/>ultrasound medical image segmentation | [paper](https://www.sciencedirect.com/science/article/abs/pii/S0045790622000799?via%3Dihub)/no code |     |     |
+| January2022 | Machine Vision and Applications | RCA-IUnet: A residual cross-spatial attention guided inception |     |
+| <br/>U-Net model for tumor segmentation in breast ultrasound |     |     |     |
+| <br/>imaging | [paper](https://arxiv.org/abs/2108.02508)/no code |     |     |
 
 ### ull supervision
 
